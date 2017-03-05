@@ -1,0 +1,45 @@
+1)pwd
+ Print Working Directory
+
+2)vi
+Opens the vi text editor. 
+
+3)touch
+The touch command is used to create new, empty files. 
+It is also used to change the timestamps on existing files and directories.
+
+4)mkdir
+Creates a directory.
+
+5)rm
+Removes a file.
+
+6)ls
+Lists all the files in current directory.
+
+7)Echo
+Prints the text that follows the command.
+
+8)cat
+ Display contents of one or more files.
+
+9)who
+ Displays the current username.
+
+10)cd
+ Changes Directory from one to another.
+
+11)date
+ Prints the current date and time.
+
+12)cal
+ Prints the Calendar.
+
+13)mv
+ Moves a file from one location to another. And also used for renaming.
+
+14)cp
+ Copies a file from one location to another.
+
+15)which
+ Identifies the executable files.
